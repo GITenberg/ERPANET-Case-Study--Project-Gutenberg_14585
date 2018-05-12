@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5581'
     url: http://www.gutenberg.org/2009/agents/5581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14585#ERPANET-Case-Study--Project-Gutenberg
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
 identifiers:
